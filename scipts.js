@@ -70,7 +70,7 @@ let subTotal = colorsTotal + whitesTotal + darksTotal + detegentTotal + softener
 let newjerseyTax = 0.06625 * subTotal;
 let orderTotal = subTotal + newjerseyTax;
 
-//ADD OUTPUT 
+// ADD OUTPUT 
 console.log("------------------------------------------");
 console.log("|             Receipt 🧾                  |");
 console.log("------------------------------------------");
